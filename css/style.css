@@ -12,17 +12,18 @@ h1{
 }
 
 h2{
-    background-color: darksalmon;
-    color: lime;
+    background-color: gray;
+    color: blue;
     font-size: 24px;
     margin: 5px;
     padding: 5px;
 }
 
 h3{
-    background-color: purple;
-    color: blue;
+    background-color: black;
+    color: lime;
     font-size: 20px;
+    margin: 0px 0px 0px 5px;
     padding: 5px;
 }
 
@@ -32,4 +33,6 @@ p{
     font-size: 18px;
     margin: 5px;
     padding: 5px;
+    display: flex;
+    flex-wrap: wrap;
 }
